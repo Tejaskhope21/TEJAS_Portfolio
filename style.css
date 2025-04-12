@@ -138,7 +138,7 @@ body {
   min-height: 100vh;
   padding: 100px 5%;
   gap: 50px;
-  background: url('./assets/background-pattern.png') no-repeat center/cover;
+  background: url('./assets/background-pattern.jpg') no-repeat center/cover;
 }
 
 .section__pic-container img {
